@@ -1,0 +1,57 @@
+.player{
+    width: 300px;
+    height:300px;
+    object-fit: cover;
+}
+.playerDiv{
+    width: 400px;
+    height: 600px;
+    background-color: darkblue;
+    display: inline-block;
+    border: 5px solid black;
+    text-align: center;
+    padding: 50px;
+}
+.pandyaDiv{
+    background-image: url("./images/Mumbai\ Indians\ Logo.jpeg");
+    background-repeat: no-repeat;
+    background-position: 110px 400px;
+     background-attachment: scroll; 
+     background-size: 300px 300px;
+     border: 30px solid rgb(228, 161, 17);
+}
+.plesisDiv{
+    background-image: url("./images/Royal\ Challengers\ Logo.jpeg");
+    background-repeat: no-repeat;
+       background-size: 500px 720px;
+       background-attachment: fixed;
+       background-position: 500px 60px;
+       border: 30px solid rgb(231, 41, 7) ;
+
+      
+}
+.CumminsDiv{
+    background-image: url("./images/Sunrisers\ Hyderabad\ Logo.png");
+    background-repeat: repeat;
+    background-position: 110px 350px;
+     background-attachment: scroll;
+     border: 30px solid rgb(255, 166, 0);
+
+}
+.GaikwadDiv{
+    background-image: url("./images/Chennai\ Super\ Kings\ Logo.jpeg");
+    background-repeat: repeat;
+    background-position: 110px 350px;
+     background-attachment: fixed;
+     border: 30px solid yellow;
+}
+.SamsonDiv{
+    background-image: url("./images/Rajasthan\ Royals\ Logo.png");
+    background-repeat: no-repeat;
+    background-position: 110px 400px;
+     background-attachment: scroll;
+     border: 30px solid rgb(243, 10, 146);
+     background-size: 400px 700px;
+     opacity: ;
+}
+
